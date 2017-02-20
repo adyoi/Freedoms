@@ -1,30 +1,32 @@
 # Freedoms
 Freedoms is Simply and Powerful PHP Class
 
+
+### General Information
 ```
 Project
-
+-------
 link : https://gitlab.com/adyoi/freedoms
 
 Repository
-
+----------
 link : https://gitlab.com/adyoi/freedoms.git
 
 Live Demo Frontend
-
+------------------
 link : http://freedoms.pe.hu
 user : demo
 pass : demo
 
 Live Demo Backend
-
+-----------------
 link : http://freedoms.pe.hu/admin
 user : admin
 pass : admin
 ```
 
-### Directory Tree Structure
 
+### Directory Tree Structure
 ```
 Freedoms
 		|
@@ -68,14 +70,12 @@ Freedoms
 		└-- engine
 ```
 
+
 ### System Schema
 ```
-Frontend :
-Start --> Error Handler --> Autoload --> Route --> Controller --> Template --> View 
+Frontend : Start --> Error Handler --> Autoload --> Route --> Controller --> Template --> View 
 
-Backend :
-Start --> Error Handler --> Autoload --> Route --> Controller --> Template --> Authorize --> View
-
+Backend : Start --> Error Handler --> Autoload --> Route --> Controller --> Template --> Authorize --> View
 ```
 
 
@@ -116,6 +116,7 @@ namespace Freedoms
 	if(!defined('names')) exit('forbidden access');
 }
 ```
+
 
 ### Terms and Conditions of Use
 
