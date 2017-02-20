@@ -1,17 +1,24 @@
 # Freedoms
 Freedoms is Simply and Powerful PHP Class
 
-
-Project : https://gitlab.com/adyoi/freedoms
-
-Repository : https://gitlab.com/adyoi/freedoms.git
-
 ```
-Frontend: http://freedoms.pe.hu
+Project
+
+link : https://gitlab.com/adyoi/freedoms
+
+Repository
+
+link : https://gitlab.com/adyoi/freedoms.git
+
+Live Demo Frontend
+
+link : http://freedoms.pe.hu
 user : demo
 pass : demo
 
-Backend : http://freedoms.pe.hu/admin
+Live Demo Backend
+
+link : http://freedoms.pe.hu/admin
 user : admin
 pass : admin
 ```
