@@ -1,8 +1,5 @@
 # Freedoms
 Freedoms is Simply and Powerful PHP Class
-
-
-### General Information
 ```
 Project
 -------
