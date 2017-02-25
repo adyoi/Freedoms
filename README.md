@@ -88,6 +88,8 @@ namespace Freedoms
 {
 	class Index
 	{
+		var $function = array("greets");
+		
 		public function __construct()
 		{	
 			AutoLoad :: load('engines\Render');
@@ -95,8 +97,7 @@ namespace Freedoms
 		
 		public static function index()
 		{
-			$data["baseurl"] = Routes :: baseurl();
-			Render :: page('index', $data);
+			Render :: page('index', null);
 		}
 	
 		public static function param ($arg)
