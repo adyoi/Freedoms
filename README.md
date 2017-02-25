@@ -107,7 +107,7 @@ namespace Freedoms
 		
 		public static function greets ($msg)
 		{
-			print $msg;
+			echo $msg;
 		}
 		
 	}
